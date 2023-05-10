@@ -1,8 +1,24 @@
 # user-crud-operation!
 
-image upload with User authentication
+image upload with User authentication.
+
 database used mongo db.
+
 frame work used node js.
+
+**CRUD_Application_Node**
+
+In this project, we are going to create node CRUD application with express and mongodb.
+
+To Run this project Clone it and install modules using
+
+npm install
+
+install the packages needful to us as per package.json file...
+
+Then create PORT and MONGO_URI Variable and specify Value. That's it. You are ready to go. To execute this project just type and Start the server
+
+node server.js
 
 
 SCREENSHOTS :
